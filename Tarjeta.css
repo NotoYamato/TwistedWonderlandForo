@@ -1,0 +1,26 @@
+/*~FUENTES~*/
+@font-face{
+	font-family: Lutin;
+	src: url('./Fuentes/lutin.ttf') format('truetype');
+}
+@font-face{
+	font-family: DH;
+	src: url('./Fuentes/DH.ttf') format('truetype');
+}
+@font-face{
+	font-family: Chopin;
+	src: url('./Fuentes/Chopin.otf') format('opentype');
+}
+/*~ESTULOS~*/
+body{
+    width: 310px;
+    height: 95px;
+    border: 1px black solid;
+    text-align: center;
+}
+#titulo{	
+	font-size: 18px;
+	font-family: Chopin;
+    text-align: center;
+ margin-top: -2.5px;
+}
