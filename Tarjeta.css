@@ -1,15 +1,15 @@
 /*~FUENTES~*/
 @font-face{
 	font-family: Lutin;
-	src: url('./Fuentes/lutin.ttf') format('truetype');
+	src: url('./lutin.ttf') format('truetype');
 }
 @font-face{
 	font-family: DH;
-	src: url('./Fuentes/DH.ttf') format('truetype');
+	src: url('./DH.ttf') format('truetype');
 }
 @font-face{
 	font-family: Chopin;
-	src: url('./Fuentes/Chopin.otf') format('opentype');
+	src: url('./Chopin.otf') format('opentype');
 }
 /*~ESTULOS~*/
 body{
